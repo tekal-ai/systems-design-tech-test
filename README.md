@@ -53,3 +53,7 @@ At a minimum, your repository should contain:
 - **Logging System**: A mechanism to capture, store, and analyze system logs.
 - **User Authentication**: A secure system to manage user sign-ups, logins, and permissions.
 - **Infrastructure Diagram**: A detailed diagram showcasing all infrastructure components.
+
+Feel free to make any remaining assumptions for undefined items.
+
+Engineers at Memorable have a collaborative culture, and we often discuss projects across teams. Consider yourself our colleague on this project, and please don’t hesitate to reach out to us for clarification on any requirements or guidance if you’re having trouble. In other words: feel free to ask questions. You can send us emails to camilo@memorable.io, gaston.tulipani@memorable.io and pedro.freitas@memorable.io, copying angie.podrez@memorable.io .

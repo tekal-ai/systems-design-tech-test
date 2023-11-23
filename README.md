@@ -13,7 +13,7 @@ You are not required to code for this interview. You should assume that you are 
     - Score images based on visual-only metrics. You can assume that an endpoint already exists that receives an image, runs a machine learaning model, and returns a set of N scores. The endpoint always returns N scores, for any image.
     - Automatically tag the images based on the model's output. You can assume that an endpoint already exists that receives an image, runs a model and returns T tags for the image. The number of tags can vary per image.
 3. **Image Management**:
-    - View a list of uploaded images.
+    - View the list of uploaded images by the current user.
     - Organize images into folders for better management.
     - View an image’s score and tags.
 4. **Tag Editing**: Users should have the capability to manually correct or edit the tags assigned to images.
@@ -31,9 +31,14 @@ You are not required to code for this interview. You should assume that you are 
 
 ### Deliverables:
 
-The point of this exercise is to generate design documents that can help a team of developers develop the entire application - the deliverables are documents and diagrams explaining the implementation. To submit your solution, please **fork this repository, commit your files and add @cfosco, @ppfreitas as contributors.**.
+The point of this exercise is to generate design documents that can help a team of developers develop the entire application - the deliverables are documents and diagrams explaining the implementation. To submit your solution, please **fork this repository**, commit your files and add the following collaborators:
+- @cfosco
+- @gtulipani
+- @andrescanabarro
+- @ppfreitas
+- @emasquil
 
-At a minimum, your repo should contain:
+At a minimum, your repository should contain:
 - **Project Readme:** explanation of the project. Stack to be used, set of functionalities and overall design description.
     - **Endpoint List**: A comprehensive list of all API endpoints with their respective functionalities.
     - **Testing Plan**: A strategy to ensure the system's functionality, performance, and security.
